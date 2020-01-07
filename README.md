@@ -1,0 +1,1 @@
+This is a junit project to test REST API of [Syndication Loan Cordapp](https://gitlab.cloud-chinasystems.com/dayub/cordapp-syndication-loan). [REST-assured](http://rest-assured.io/) is used to simplify the programming.
